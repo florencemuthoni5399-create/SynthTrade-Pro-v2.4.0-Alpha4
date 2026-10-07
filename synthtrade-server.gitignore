@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+node_modules/
+trades.log.jsonl
+measure_report.json

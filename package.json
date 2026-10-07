@@ -1,0 +1,17 @@
+{
+  "name": "synthtrade-server-bot",
+  "version": "2.4.0",
+  "description": "SynthTrade Pro server bot (Deriv EURUSD Rise/Fall) \u2014 Alpha #4 exhaustion/reversal strategy with conservative fractional-risk money management.",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  }
+}
